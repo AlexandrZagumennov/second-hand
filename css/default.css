@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  --main-color: #272727;
+  color: var(--color-2);
 }
 
 *,
@@ -14,8 +14,8 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: var(--main-color);
-  background-color: #fff;
+  color: var(--color-2);
+  background-color: var(--color-1);
 }
 
 img {
